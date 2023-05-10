@@ -38,7 +38,7 @@ Apply thresholding cv2.THRESH_TOZERO_INC on the image.
 
 ## Program
 ```
-Name : Shyam KUmar A
+Name : Shyam Kumar A
 Reg No : 212221230098
 ```
 ```python
